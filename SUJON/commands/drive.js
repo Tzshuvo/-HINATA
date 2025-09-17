@@ -36,7 +36,7 @@ module.exports.run = async function({ api, event, args }) {
  const driveLink = data.driveLink || data.driveLIink;
 
  if (driveLink) {
- const successMsg = `✅ make by Sujon-Boss| File successfully uploaded to Google Drive!\n\n🔗 Drive URL: ${driveLink}`;
+ const successMsg = `✅ make by Shuvo| File successfully uploaded to Google Drive!\n\n🔗 Drive URL: ${driveLink}`;
  return api.sendMessage(successMsg, event.threadID, event.messageID);
  }
 
