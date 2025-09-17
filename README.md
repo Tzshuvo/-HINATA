@@ -1,16 +1,16 @@
 ---
 
-—͟͟͞͞𝐒𝐔𝐉𝐎𝐍 𝐂𝐇𝐀𝐓 𝐁𝐎𝐓 𝐅𝐎𝐑𝐊 🌺
+—͟͟͞͞𝐒𝐇𝐔𝐕𝐎 𝐂𝐇𝐀𝐓 𝐁𝐎𝐓 𝐅𝐎𝐑𝐊 🌺
 
 ❖ A Messenger Multi Device Bot To Take Your Messenger To Another Level!
 
-Assalamualaikum Everyone! Welcome to My SUJON CHAT BOT Fork!
+Assalamualaikum Everyone! Welcome to My —͟͟͞͞𝐒𝐇𝐔𝐕𝐎 𝐂𝐇𝐀𝐓 𝐁𝐎𝐓 𝐅𝐎𝐑𝐊!
 
 ---
 
-![Box-shaped Image](https://i.imgur.com/0445Gzu.jpeg)
+![Box-shaped Image](https://i.imgur.com/viYEPHV.jpeg)
 
-SUJON CHAT BOT      Develop By SUJON-BOSS
+—͟͟͞͞𝐒𝐇𝐔𝐕𝐎 𝐂𝐇𝐀𝐓 𝐁𝐎𝐓       Develop By —͟͟͞͞𝐒𝐇𝐔𝐕𝐎
 
 ---
 ### <br>   ❖ DEPLOY_WORKFLOWS ❖
@@ -88,18 +88,18 @@ Use GitHub to manage your projects efficiently and share your code with the deve
 
 👨‍💻 ABOUT THE DEVELOPER  
 
-- Name: SUJON-BOSS  
-- Nice Name: SUJON  
+- Name: —͟͟͞͞𝐒𝐇𝐔𝐕𝐎 🌺
+- Nice Name: —͟͟͞͞𝐒𝐇𝐔𝐕𝐎
 - Profession: STUDENT & CHATBOT DEVELOPER  
-- Location: DHAKA, BANGLADESH  
+- Location: BOGURA, BANGLADESH  
 
 ---
 
 📞 CONTACT INFORMATION  
 
-- Phone/WhatsApp: 01813101538  
-- Messenger: [Click Here](https://m.me/cybersujon)  
-- Telegram: [Join](https://t.me/+53U3aLJH-WA3NWM9)  
+- Phone/WhatsApp: 01947******  
+- Messenger: [Click Here](https://m.me/100025645342388)  
+- Telegram: [Join](https://t.me/100025645342388)  
 
 ---
 
@@ -115,7 +115,7 @@ Use GitHub to manage your projects efficiently and share your code with the deve
 
 If you need any help, you can contact the admin. Please do not disturb the admin unless you have a special need. Thank you!  
 
-[WhatsApp](https://wa.me/+8801813101538) | [Messenger](https://m.me/cybersujon) | [Telegram](https://t.me/+53U3aLJH-WA3NWM9)  
+[WhatsApp](https://wa.me/+8801947****) | [Messenger](https://m.me/cybersujon) | [Telegram](https://t.me/100025645342388)  
 
 ---
 
@@ -132,7 +132,7 @@ If you need any help, you can contact the admin. Please do not disturb the admin
 🗓️ Release Date: 11/08/2025 at 02:00 ⭐  
 
 Star:  
-[GitHub](https://github.com/) | [WhatsApp](https://wa.me/+8801813101538) | [Messenger](https://m.me/cybersujon) | [Telegram](https://t.me/+53U3aLJH-WA3NWM9) | [YouTube](https://youtube.com/@cyberbotcommunity)  
+[GitHub](https://github.com/) | [WhatsApp](https://wa.me/+8801947******) | [Messenger](https://m.me/100025645342388) | | [YouTube](https://youtube.com/@cyberbotcommunity)  
 
 ---
 
