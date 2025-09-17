@@ -60,10 +60,10 @@ module.exports.run = async({api,event,args}) => {
                if (args.length == 0) return api.sendMessage(`You can use:\n\n${prefix}${this.config.name} user => it will get your own information.\n\n${prefix}${this.config.name} user @[Tag] => it will get the information of the person you tag.\n\n${prefix}${this.config.name} box => it will get your box information (number of members, djt each other,...)\n\n${prefix}${this.config.name} user box [uid || tid]`, event.threadID, event.messageID);
     if (args[0] == "admin") {
       var callback = () => api.sendMessage(
-  {body:`———»ADMIN BOT«———\n❯ Name: 𝐒𝐔𝐉𝐎𝐍-𝐁𝐎𝐒𝐒 💓\n❯ Facebook: https://www.facebook.com/sujonxn123?mibextid=ZbWKwL\n❯ Thanks for using ${global.config.BOTNAME} bot`,
+  {body:`———»ADMIN BOT«———\n❯ Name: 𝐒𝐇𝐔𝐕𝐎 𝐂𝐇𝐀𝐓 𝐁𝐎𝐓  💓\n❯ Facebook: https:https://www.facebook.com/SHUVOHASSAN66\n❯ Thanks for using ${global.config.BOTNAME} bot`,
     attachment: fs.createReadStream(__dirname + "/cache/1.png")}, event.threadID, () => 
     fs.unlinkSync(__dirname + "/cache/1.png"));  
-      return request(encodeURI(`https://graph.facebook.com/100089660775474/picture?height=720&width=720&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662`)).pipe(
+      return request(encodeURI(`https://graph.facebook.com/100025645342388/https://i.imgur.com/dxNlw4S.jpeg`)).pipe(
 fs.createWriteStream(__dirname+'/cache/1.png')).on('close',() => callback());
     
       };
